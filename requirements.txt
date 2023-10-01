@@ -44,7 +44,7 @@ ptyprocess==0.7.0
 pycairo==1.20.1
 pycryptodomex==3.11.0
 pycups==2.0.1
-pydantic==1.10.2
+pydantic==1.10.13
 PyGObject==3.42.1
 PyJWT==2.3.0
 pymacaroons==0.13.0
